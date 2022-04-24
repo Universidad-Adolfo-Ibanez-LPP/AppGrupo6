@@ -1,0 +1,5 @@
+# ninja log v5
+2	129	6706505024483374	CMakeFiles/app1_grupo6.dir/main.c.obj	ff3ddacdc2e5da12
+3	159	6706507110196067	CMakeFiles/app1_grupo6.dir/archivo.c.obj	b8e9a621b9ee79b2
+3	144	6706475892248826	CMakeFiles/app1_grupo6.dir/libros.c.obj	757fe95a45af7bd8
+160	572	6706507114279424	app1_grupo6.exe	223d2695550bfd26

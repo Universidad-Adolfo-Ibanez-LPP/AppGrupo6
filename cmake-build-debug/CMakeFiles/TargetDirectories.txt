@@ -1,0 +1,3 @@
+C:/Users/Daniel Bravo/Desktop/New folder (4)/repositoriofinal/app1_grupo6/cmake-build-debug/CMakeFiles/app1_grupo6.dir
+C:/Users/Daniel Bravo/Desktop/New folder (4)/repositoriofinal/app1_grupo6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Daniel Bravo/Desktop/New folder (4)/repositoriofinal/app1_grupo6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
